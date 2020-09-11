@@ -1,0 +1,65 @@
+body {text-align: center;}
+
+h1 {color: orange;
+	font-size:72px; 
+ 	font-family: comic sans ms;
+ }
+
+h2 {position: relative;
+ 	top: 80px;
+ 	color: darkorange;
+ 	font-size: 32px;
+ 	font-family: verdana;
+ 	text-shadow: 2px 2px #000000;
+ }
+
+h3 {color: orange;
+ 	font-size: 30px;
+ 	font-family: verdana;
+ 	text-align: left;
+ }
+
+p {
+	color: black;
+	text-align: left;
+	font-size: 20px;
+	font-family: verdana;
+
+
+
+}
+
+ul {font-size: 20px;
+	text-align: left;
+	font-family: verdana;
+
+
+ }
+
+a {font-size: 24px;}
+
+a:link {
+  
+  color: orange;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: orange;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  font-size: 30px;
+  color: darkred;
+  background-color: transparent;
+  text-decoration: underline;
+}
